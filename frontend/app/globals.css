@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Additional styles for Samba Service */
+body {
+    background-color: #f9fafb; /* Light background */
+    color: #111827; /* Dark text */
+    font-family: 'Inter', sans-serif;
+}
+h1 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
